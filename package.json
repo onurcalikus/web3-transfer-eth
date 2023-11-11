@@ -1,0 +1,7 @@
+{
+  "name": "web3-transfer-eth",
+  "version": "1.0.0",
+  "dependencies": {
+    "web3": "^4.2.2"
+  }
+}
